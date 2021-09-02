@@ -184,6 +184,36 @@ VL4F27-28
 </td></tr></table>
 </details>
 
+## Ablauforganisation
+Fragen aus der Datei [Relevant](./Fragenkatalog/05%20Ablauforganisation/Relevant.md).
+<details><summary><b>Aufbauorganisation </b></summary>
+<table><tr><td>
+
+- Div. Formen
+
+VL5F8-17
+VL5F20
+
+</td></tr></table>
+</details>
+<details><summary><b>Parallelität</b></summary>
+<table><tr><td>
 
 
-Generiert am Thu Sep  2 10:29:12 UTC 2021
+VL5F25?-27
+VL5F30
+
+</td></tr></table>
+</details>
+<details><summary><b>Ablaufprojektmanagement bei agilen Projekten</b></summary>
+<table><tr><td>
+
+
+VL5F31
+VL5F32? (ggf. Video)
+</td></tr></table>
+</details>
+
+
+
+Generiert am Thu Sep  2 10:35:44 UTC 2021
