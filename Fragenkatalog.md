@@ -70,6 +70,58 @@ VL1F38
 </td></tr></table>
 </details>
 
+## Problemlösungsprozesse
+Fragen aus der Datei [Relevant](./Fragenkatalog/02%20Problemlösungsprozesse/Relevant.md).
+<details><summary><b>Problemlösung ist ein iterativer Prozess</b></summary>
+<table><tr><td>
 
 
-Generiert am Thu Sep  2 09:43:41 UTC 2021
+VL2F8
+
+</td></tr></table>
+</details>
+<details><summary><b>Zielgestaltung - SMART </b></summary>
+<table><tr><td>
+
+
+VL2F14
+
+</td></tr></table>
+</details>
+<details><summary><b>Hierachisches und Zeitliches Zielsystem</b></summary>
+<table><tr><td>
+
+
+VL2F17
+
+</td></tr></table>
+</details>
+<details><summary><b>Beziehung von Zielen</b></summary>
+<table><tr><td>
+
+
+VL2F18
+
+</td></tr></table>
+</details>
+<details><summary><b>Zielsysteme - Gütekriterium und Randbedingung</b></summary>
+<table><tr><td>
+
+Berechnung relevant
+
+VL2F19-21
+
+</td></tr></table>
+</details>
+<details><summary><b>Zieldreieck von Projekten</b></summary>
+<table><tr><td>
+
+
+VL2F38-44
+VL2F41
+</td></tr></table>
+</details>
+
+
+
+Generiert am Thu Sep  2 09:59:47 UTC 2021
