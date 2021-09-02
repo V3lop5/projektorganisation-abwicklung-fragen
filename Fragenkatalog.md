@@ -214,6 +214,43 @@ VL5F32? (ggf. Video)
 </td></tr></table>
 </details>
 
+## Projektkostenplanung
+Fragen aus der Datei [Relevant](./Fragenkatalog/07%20Projektkostenplanung/Relevant.md).
+<details><summary><b>Berechnung Break even point</b></summary>
+<table><tr><td>
 
 
-Generiert am Thu Sep  2 10:35:44 UTC 2021
+VL7F8-10
+
+</td></tr></table>
+</details>
+<details><summary><b>Schätzung von Kosten</b></summary>
+<table><tr><td>
+
+
+VL7F13
+
+</td></tr></table>
+</details>
+<details><summary><b>PERT</b></summary>
+<table><tr><td>
+
+- Formel vorgegeben.
+
+VL7F15-27
+VL7F18
+
+</td></tr></table>
+</details>
+<details><summary><b>Risikobewertung - RPZ</b></summary>
+<table><tr><td>
+
+
+VL7F30-34
+VL7F33
+</td></tr></table>
+</details>
+
+
+
+Generiert am Thu Sep  2 10:42:50 UTC 2021
