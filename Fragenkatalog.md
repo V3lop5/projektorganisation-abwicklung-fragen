@@ -282,6 +282,35 @@ VL9
 </td></tr></table>
 </details>
 
+## Projektsteuerung
+Fragen aus der Datei [Relevant](./Fragenkatalog/11%20Projektsteuerung/Relevant.md).
+<details><summary><b>Klalkulationen/Kostenarten</b></summary>
+<table><tr><td>
 
 
-Generiert am Thu Sep  2 11:01:21 UTC 2021
+VL11F8-15 ca.
+
+</td></tr></table>
+</details>
+<details><summary><b>Earned value Analyse</b></summary>
+<table><tr><td>
+
+- Rechenaufgabe
+
+VL11F29ff.
+VL11F41
+VL1135-42?
+
+</td></tr></table>
+</details>
+<details><summary><b>Eig alles?</b></summary>
+<table><tr><td>
+
+
+VL11
+</td></tr></table>
+</details>
+
+
+
+Generiert am Thu Sep  2 11:14:26 UTC 2021
