@@ -251,6 +251,21 @@ VL7F33
 </td></tr></table>
 </details>
 
+## Terminplanung
+Fragen aus der Datei [Relevant](./Fragenkatalog/08%20Terminplanung/Relevant.md).
+<details><summary><b>Netzplan</b></summary>
+<table><tr><td>
+
+- Kritischer Pfad
+- Gesamtpuffer
+- Freier Puffer
+- Netzplan zeichen nach MPM
+
+VL8F19
+Eig komplette Vorlesung
+</td></tr></table>
+</details>
 
 
-Generiert am Thu Sep  2 10:42:50 UTC 2021
+
+Generiert am Thu Sep  2 10:58:15 UTC 2021
