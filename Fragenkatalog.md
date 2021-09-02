@@ -1,13 +1,4 @@
 #Fragenkatalog
-## Themengebiet
-Fragen aus der Datei [Fragen aus Vorlesung](./Fragenkatalog/00%20Themengebiet/Fragen%20aus%20Vorlesung.md).
-<details><summary><b>Was ist das Ergebnis von 1+1?</b></summary>
-<table><tr><td>
-
-Die Antwort ist 2. Wenn man noch 40 addiert, kommt man auf 42.
-</td></tr></table>
-</details>
-
 ## Projektmanagement
 Fragen aus der Datei [Relevant](./Fragenkatalog/01%20Projektmanagement/Relevant.md).
 <details><summary><b>Fünf Kennzeichen eines Projekts</b></summary>
@@ -293,4 +284,4 @@ VL9
 
 
 
-Generiert am Thu Sep  2 11:01:07 UTC 2021
+Generiert am Thu Sep  2 11:01:21 UTC 2021
