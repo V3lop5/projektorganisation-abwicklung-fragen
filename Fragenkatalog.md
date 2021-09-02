@@ -149,6 +149,41 @@ VL3F33
 </td></tr></table>
 </details>
 
+## Projektstrukturplanung
+Fragen aus der Datei [Relevant](./Fragenkatalog/04%20Projektstrukturplanung/Relevant.md).
+<details><summary><b>Zieldreieck bei klasisch oder agil</b></summary>
+<table><tr><td>
 
 
-Generiert am Thu Sep  2 10:10:06 UTC 2021
+VL4F5-8
+
+</td></tr></table>
+</details>
+<details><summary><b>Projekt und Produktstrukturplan</b></summary>
+<table><tr><td>
+
+Relevant? 
+
+VL4F11ff.
+
+</td></tr></table>
+</details>
+<details><summary><b>Vorgangsliste</b></summary>
+<table><tr><td>
+
+
+VL4F23
+
+</td></tr></table>
+</details>
+<details><summary><b>Warum ist Planung wichtig?</b></summary>
+<table><tr><td>
+
+
+VL4F27-28
+</td></tr></table>
+</details>
+
+
+
+Generiert am Thu Sep  2 10:29:12 UTC 2021
