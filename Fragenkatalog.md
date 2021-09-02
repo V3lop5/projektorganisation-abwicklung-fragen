@@ -266,6 +266,31 @@ Eig komplette Vorlesung
 </td></tr></table>
 </details>
 
+## Nutzwertanalyse
+Fragen aus der Datei [Relevant](./Fragenkatalog/09%20Nutzwertanalyse/Relevant.md).
+<details><summary><b>Nutzwertanalyse</b></summary>
+<table><tr><td>
+
+...
+
+</td></tr></table>
+</details>
+<details><summary><b>Zuordnung des Kostenverlauf zum Projekt</b></summary>
+<table><tr><td>
+
+sowas wie
+VL9F17
+
+</td></tr></table>
+</details>
+<details><summary><b>VL9 komplett + Übungen</b></summary>
+<table><tr><td>
 
 
-Generiert am Thu Sep  2 10:58:15 UTC 2021
+VL9
+</td></tr></table>
+</details>
+
+
+
+Generiert am Thu Sep  2 11:01:07 UTC 2021
