@@ -122,6 +122,33 @@ VL2F41
 </td></tr></table>
 </details>
 
+## Lastenheft und Pflichtenheft
+Fragen aus der Datei [Relevant](./Fragenkatalog/03%20Lastenheft%20und%20Pflichtenheft/Relevant.md).
+<details><summary><b>Definition Lasten und Pfdlicxhtenheft</b></summary>
+<table><tr><td>
 
 
-Generiert am Thu Sep  2 09:59:47 UTC 2021
+VL3F22
+
+</td></tr></table>
+</details>
+<details><summary><b>Reihenfolge und Zuständigkeit</b></summary>
+<table><tr><td>
+
+
+VL3F31
+
+</td></tr></table>
+</details>
+<details><summary><b>Zusammenfassung Last und Pflichtenheft</b></summary>
+<table><tr><td>
+
+Aus Vorlesungs Video
+
+VL3F33
+</td></tr></table>
+</details>
+
+
+
+Generiert am Thu Sep  2 10:10:06 UTC 2021
