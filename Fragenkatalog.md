@@ -27,6 +27,12 @@ VL1F20
 <details><summary><b>Arten von Projekten</b></summary>
 <table><tr><td>
 
+Differenzierung nach Entscheidungsträger
+- interes Projekt
+- externes Projekt
+
+...
+
 
 VL1F18
 
@@ -313,4 +319,4 @@ VL11
 
 
 
-Generiert am Thu Sep  2 11:14:26 UTC 2021
+Generiert am Thu Sep  9 01:47:57 UTC 2021
