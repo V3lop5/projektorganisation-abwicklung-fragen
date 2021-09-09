@@ -14,6 +14,12 @@ Definition von Jakoby für eine Aufgabe:
 VL1F20
 
 # Arten von Projekten
+Differenzierung nach Entscheidungsträger
+- interes Projekt
+- externes Projekt
+
+...
+
 
 VL1F18
 
