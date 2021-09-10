@@ -21,8 +21,6 @@ VL4F5-8
 **Produktstrukturplan**
 
 
-Relevant? 
-
 VL4F11ff.
 
 # Vorgangsliste
