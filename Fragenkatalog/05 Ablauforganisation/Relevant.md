@@ -11,5 +11,7 @@ VL5F30
 
 # Ablaufprojektmanagement bei agilen Projekten
 
+TODO FOTO Laura
+
 VL5F31
 VL5F32? (ggf. Video)
