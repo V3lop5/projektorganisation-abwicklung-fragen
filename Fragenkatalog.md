@@ -268,7 +268,15 @@ Fragen aus der Datei [Relevant](./Fragenkatalog/09%20Nutzwertanalyse/Relevant.md
 <details><summary><b>Nutzwertanalyse</b></summary>
 <table><tr><td>
 
-...
+**Gewichte bestimmen**
+- Zählen wie oft Kriterum in Präferenzmatrix vorkommt
+- Durch Prüfsumme teilen 
+
+**Absoluten Nutzen**
+- Bild TODO
+
+**Relativer Nutzen**
+- Absoluten Nutzen * Gewichtung
 
 </td></tr></table>
 </details>
@@ -278,13 +286,7 @@ Fragen aus der Datei [Relevant](./Fragenkatalog/09%20Nutzwertanalyse/Relevant.md
 sowas wie
 VL9F17
 
-</td></tr></table>
-</details>
-<details><summary><b>VL9 komplett + Übungen</b></summary>
-<table><tr><td>
 
-
-VL9
 </td></tr></table>
 </details>
 
@@ -319,4 +321,4 @@ VL11
 
 
 
-Generiert am Thu Sep  9 01:47:57 UTC 2021
+Generiert am Fri Sep 10 14:45:04 UTC 2021
