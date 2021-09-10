@@ -275,6 +275,13 @@ VL7F18
 <details><summary><b>Risikobewertung - RPZ</b></summary>
 <table><tr><td>
 
+> RPZ = A * E * B
+
+- **A**uftrittswahrscheinlichkeit
+- **E**ntdeckungswahrscheinlichkeit
+- **B**edeutung
+
+> RPZ kleiner als 40 => Unkritisch
 
 VL7F30-34
 VL7F33
@@ -354,4 +361,4 @@ VL11
 
 
 
-Generiert am Fri Sep 10 15:25:09 UTC 2021
+Generiert am Fri Sep 10 15:42:22 UTC 2021
