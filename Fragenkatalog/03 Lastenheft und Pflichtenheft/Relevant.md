@@ -1,8 +1,18 @@
-# Definition Lasten und Pfdlicxhtenheft
+# Definition Lasten- und Pflichtenheft
+<img src="./LastPflicht.PNG" />
 
 VL3F22
 
 # Reihenfolge und Zuständigkeit
+| Plan | Zuständigkeit |
+|:------:|:-----------:|
+| Lastenheft | Auftraggeber |
+| Pflichtenheft | Auftragnehmer |
+| Produktstrukturplan | Auftragnehmer |
+| Projektstrukturplan | Auftragnehmer |
+| Vorgangsliste | Auftragnehmer |
+| Ressourcenplanung | Auftragnehmer |
+| Zeitplanung & Kostenplanung | Auftragnehmer |
 
 VL3F31
 
