@@ -7,6 +7,14 @@ VL7F8-10
 VL7F13
 
 # PERT
+- Dient der Schätzung der Dauer von Arbeitspaketen/Zeitaufwands. (Schätzen ist nicht Wissen, aber besser als Raten.)
+- Dreipunktschätzung:
+  - Pessimistische Schätzung
+  - Optimistische Schätzung
+  - Realistische Schätzung
+- Erwarteter Zeitaufwand: `VL7F24`
+
+
 - Formel vorgegeben.
 
 VL7F15-27
