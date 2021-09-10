@@ -161,6 +161,19 @@ Fragen aus der Datei [Relevant](./Fragenkatalog/04%20Projektstrukturplanung/Rele
 <details><summary><b>Zieldreieck bei klasisch oder agil</b></summary>
 <table><tr><td>
 
+Kosten, Qualität und Termine bilden ein Dreieck. Ändert sich eine Größe, so verschiebt sich mindestens eine Andere.
+
+**Klassisches Projektmanagement**
+- Fixe Qualität
+- Geplante Kosten und Termine
+
+*"Die Eigenschaften des Projektgegenstands sind per Lastenheft festgelegt. Daraufhin werden Kosten und Termine geplant und später gesteuert."*
+
+**Agiles Projekt**
+- Fixes Budget
+- Fixe Termine (Sprintziele)
+
+*"Das für einen bestimmten Zeitraum („Sprint“) zur Verfügung stehende Budget steht fest. Daraufhin wird geplant, wie der Wert des Projektgegenstands gesteigert werden kann („Mehrwert“)."*
 
 VL4F5-8
 
@@ -339,4 +352,4 @@ VL11
 
 
 
-Generiert am Fri Sep 10 15:10:56 UTC 2021
+Generiert am Fri Sep 10 15:21:44 UTC 2021
