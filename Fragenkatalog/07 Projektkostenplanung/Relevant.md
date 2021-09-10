@@ -21,6 +21,13 @@ VL7F15-27
 VL7F18
 
 # Risikobewertung - RPZ
+> RPZ = A * E * B
+
+- **A**uftrittswahrscheinlichkeit
+- **E**ntdeckungswahrscheinlichkeit
+- **B**edeutung
+
+> RPZ kleiner als 40 => Unkritisch
 
 VL7F30-34
 VL7F33
