@@ -16,6 +16,11 @@ Kosten, Qualität und Termine bilden ein Dreieck. Ändert sich eine Größe, so 
 VL4F5-8
 
 # Projekt und Produktstrukturplan
+**Projektstrukturplan**
+
+**Produktstrukturplan**
+
+
 Relevant? 
 
 VL4F11ff.
