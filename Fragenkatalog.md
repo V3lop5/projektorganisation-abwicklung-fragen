@@ -187,8 +187,6 @@ VL4F5-8
 **Produktstrukturplan**
 
 
-Relevant? 
-
 VL4F11ff.
 
 </td></tr></table>
@@ -369,4 +367,4 @@ VL11
 
 
 
-Generiert am Fri Sep 10 16:37:28 UTC 2021
+Generiert am Fri Sep 10 16:40:43 UTC 2021
