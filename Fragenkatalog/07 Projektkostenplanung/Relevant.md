@@ -27,7 +27,10 @@ VL7F18
 - **E**ntdeckungswahrscheinlichkeit
 - **B**edeutung
 
-> RPZ kleiner als 40 => Unkritisch
+TODO
+
+> RPZ kleiner als 40 => Unkritisch, keine Maßnahmen erforderlich
+> RPZ größer als 100 => Vorbeugende Maßnahmen erforderlich
 
 VL7F30-34
 VL7F33
