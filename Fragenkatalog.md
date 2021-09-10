@@ -229,6 +229,8 @@ VL5F30
 <table><tr><td>
 
 
+TODO FOTO Laura
+
 VL5F31
 VL5F32? (ggf. Video)
 </td></tr></table>
@@ -352,4 +354,4 @@ VL11
 
 
 
-Generiert am Fri Sep 10 15:21:44 UTC 2021
+Generiert am Fri Sep 10 15:22:20 UTC 2021
