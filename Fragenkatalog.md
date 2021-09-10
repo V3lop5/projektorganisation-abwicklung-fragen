@@ -121,9 +121,10 @@ VL2F41
 
 ## Lastenheft und Pflichtenheft
 Fragen aus der Datei [Relevant](./Fragenkatalog/03%20Lastenheft%20und%20Pflichtenheft/Relevant.md).
-<details><summary><b>Definition Lasten und Pfdlicxhtenheft</b></summary>
+<details><summary><b>Definition Lasten- und Pflichtenheft</b></summary>
 <table><tr><td>
 
+<img src="./LastPflicht.PNG" />
 
 VL3F22
 
@@ -132,6 +133,15 @@ VL3F22
 <details><summary><b>Reihenfolge und Zuständigkeit</b></summary>
 <table><tr><td>
 
+| Plan | Zuständigkeit |
+|:------:|:-----------:|
+| Lastenheft | Auftraggeber |
+| Pflichtenheft | Auftragnehmer |
+| Produktstrukturplan | Auftragnehmer |
+| Projektstrukturplan | Auftragnehmer |
+| Vorgangsliste | Auftragnehmer |
+| Ressourcenplanung | Auftragnehmer |
+| Zeitplanung & Kostenplanung | Auftragnehmer |
 
 VL3F31
 
@@ -329,4 +339,4 @@ VL11
 
 
 
-Generiert am Fri Sep 10 15:09:51 UTC 2021
+Generiert am Fri Sep 10 15:10:56 UTC 2021
