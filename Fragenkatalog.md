@@ -371,10 +371,12 @@ VL11F8-15 ca.
 - EV = SOC * BAC
 
 **Termintreue (Schedule Variance und Schedule Performance Index)**
+- Formel
 - Deutung
 - VL11F36,42
 
 **Kostentreue (Cost Variance und Cost Performance Index)**
+- Formel
 - Deutung
 - VL11F37,41
 
@@ -396,4 +398,4 @@ VL11
 
 
 
-Generiert am Sat Sep 11 08:37:13 UTC 2021
+Generiert am Sat Sep 11 10:29:08 UTC 2021
