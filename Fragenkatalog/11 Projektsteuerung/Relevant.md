@@ -8,7 +8,30 @@
 
 VL11F8-15 ca.
 
-# Earned Value Analyse
+# Earned Value Analyse (EVA)
+
+**Eingabeparameter** (VL11F30)
+| Beschreibung | Bezeichnung | Woher? |
+|--------------|-------------|--------|
+| Die Gesamtkosten des Projekts (intern + extern) | BAC – Budget at Completion | Kostenplanung |
+| Die Gesamtdauer des Projekts bis Abnahme | TAC – Time at Completion | Terminplanung |
+| Den Fertigstellungsgrad am Stichtag der Analyse | SOC – Stage of Completion | noch offen <br> `SOC = Istkosten/Gesamtkosten` |
+| Die Ist-Kosten am Stichtag der Analyse | AC – Actual Cost | Kosten- und Terminsteuerung |
+| Die Plankosten am Stichtag der Analyse | PV – Planned Value | noch offen <br> Aus Kostenplanung ablesen |
+
+
+**Earned Value** 
+-
+- EV = SOC * BAC
+
+**Termintreue (Schedule Variance und Schedule Performance Index)**
+- Deutung
+- VL11F36,42
+
+**Kostentreue (Cost Variance und Cost Performance Index)**
+- Deutung
+- VL11F37,41
+
 - Rechenaufgabe
 
 VL11F29ff.
