@@ -34,7 +34,10 @@ VL11F8-15 ca.
 - Deutung
 - VL11F37,41
 
-- Rechenaufgabe
+
+Weitere Hinweise:
+- Sollte nach Möglichkeit getrennt nach interenen und externen Kosten durchgeführt werden.
+- 
 
 VL11F29ff.
 VL11F41
