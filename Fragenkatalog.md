@@ -342,11 +342,17 @@ Fragen aus der Datei [Relevant](./Fragenkatalog/11%20Projektsteuerung/Relevant.m
 <table><tr><td>
 
 
+**Kostenprognose**
+- Prognose setzt sich aus
+  - **I**stkosten der **Vergangenheit** (bereits in Rechnung gestellt worden)
+  - **B**estellkosten der **Gegenwart** (noch durch getätigte Bestellungen verbindlich entstehen werden)
+  - **E**rwartete Kosten in **Zukunft** (noch erforderlich sein werden, um das Projekt abzuschließen)
+
 VL11F8-15 ca.
 
 </td></tr></table>
 </details>
-<details><summary><b>Earned value Analyse</b></summary>
+<details><summary><b>Earned Value Analyse</b></summary>
 <table><tr><td>
 
 - Rechenaufgabe
@@ -367,4 +373,4 @@ VL11
 
 
 
-Generiert am Fri Sep 10 16:40:43 UTC 2021
+Generiert am Sat Sep 11 07:40:10 UTC 2021
