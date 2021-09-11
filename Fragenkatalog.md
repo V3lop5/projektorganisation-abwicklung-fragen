@@ -391,6 +391,16 @@ VL1135-42?
 
 </td></tr></table>
 </details>
+<details><summary><b>Meilensteintrendanalyse</b></summary>
+<table><tr><td>
+
+<img src="./Meilenstein.PNG" />
+
+VL11F72
+Übung
+
+</td></tr></table>
+</details>
 <details><summary><b>Eig alles?</b></summary>
 <table><tr><td>
 
@@ -401,4 +411,4 @@ VL11
 
 
 
-Generiert am Sat Sep 11 11:14:03 UTC 2021
+Generiert am Sat Sep 11 11:27:10 UTC 2021
