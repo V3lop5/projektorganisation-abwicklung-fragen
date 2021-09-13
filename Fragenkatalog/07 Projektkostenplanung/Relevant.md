@@ -6,7 +6,7 @@
 VL7F8-10
 
 # Schätzung von Kosten
-<img src="./Kosten.PNG" />
+![](./Kosten.PNG)
 
 VL7F13
 
