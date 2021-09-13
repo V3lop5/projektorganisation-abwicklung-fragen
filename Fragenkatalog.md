@@ -241,6 +241,8 @@ VL5F20
 <details><summary><b>Parallelität</b></summary>
 <table><tr><td>
 
+Iteration `Ablauf Aufgaben in Teilprojekt` `Ablauf Teilprojekte`
+
 ![](./Fragenkatalog/05%20Ablauforganisation/Parallel.PNG)
 
 VL5F25?-27
@@ -467,4 +469,4 @@ VL11
 
 
 
-Generiert am Mon Sep 13 12:09:47 UTC 2021
+Generiert am Mon Sep 13 12:11:47 UTC 2021
