@@ -1,8 +1,11 @@
 # Berechnung Break even point
+- Kosten = Erlös
+- `Menge = Fixkosten / (Preis - Variable Kosten)`
 
 VL7F8-10
 
 # Schätzung von Kosten
+
 
 VL7F13
 
