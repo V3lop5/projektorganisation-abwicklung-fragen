@@ -8,7 +8,7 @@ Die Gütekriterien liegen in einer Präferenzmatrix vor.
 - Durch Prüfsumme teilen 
 
 **Absoluten Nutzen**
-- <img src="./Nutzwert 1.PNG" />
+- ![](./Nutzwert1.PNG)
 
 **Relativer Nutzen**
 - Absoluten Nutzen * Gewichtung
