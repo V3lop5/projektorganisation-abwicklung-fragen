@@ -436,7 +436,7 @@ VL9F17
 
 ## Projektsteuerung
 Fragen aus der Datei [Relevant](./Fragenkatalog/11%20Projektsteuerung/Relevant.md).
-<details><summary><b>Klalkulationen/Kostenarten</b></summary>
+<details><summary><b>Kalkulationen/Kostenarten</b></summary>
 <table><tr><td>
 
 
@@ -515,4 +515,4 @@ VL11
 
 
 
-Generiert am Mon Sep 13 13:28:47 UTC 2021
+Generiert am Mon Sep 13 13:35:10 UTC 2021
