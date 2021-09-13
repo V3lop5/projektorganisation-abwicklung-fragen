@@ -23,6 +23,8 @@ VL5F8-17
 VL5F20
 
 # Parallelität
+Iteration `Ablauf Aufgaben in Teilprojekt` `Ablauf Teilprojekte`
+
 ![](./Parallel.PNG)
 
 VL5F25?-27
