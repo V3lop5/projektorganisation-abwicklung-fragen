@@ -289,7 +289,7 @@ VL7F18
 - **E**ntdeckungswahrscheinlichkeit
 - **B**edeutung
 
-TODO
+![](./Fragenkatalog/07%20Projektkostenplanung/RPZ.PNG)
 
 > RPZ kleiner als 40 => Unkritisch, keine Maßnahmen erforderlich
 
@@ -448,4 +448,4 @@ VL11
 
 
 
-Generiert am Mon Sep 13 11:39:05 UTC 2021
+Generiert am Mon Sep 13 11:39:25 UTC 2021
