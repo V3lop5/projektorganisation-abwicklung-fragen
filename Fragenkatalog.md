@@ -18,7 +18,13 @@ VL1F21
 <table><tr><td>
 
 Definition von Jakoby für eine Aufgabe:
-> Ein System durch geeignete Handlungen aus einem Anfangs- in einen Zielzustand zu bringen, ist eine Aufgabe.
+
+*Ein System durch geeignete Handlungen aus einem Anfangs- in einen Zielzustand zu bringen, ist eine Aufgabe.*
+
+> Routinierte Zustandsänderung (Schwierigkeits-/Problemcharakter fehlt) = Aufgabe
+
+... für ein Projekt
+> siehe oben
 
 VL1F20
 
@@ -27,14 +33,24 @@ VL1F20
 <details><summary><b>Arten von Projekten</b></summary>
 <table><tr><td>
 
-Differenzierung nach Entscheidungsträger
+**Differenzierung nach Entscheidungsträger**
 - interes Projekt
 - externes Projekt
 
-...
+**Differenzierung nach Projektart**
+- Organisationsprojekte
+- Investitionsprojekte
+- Forschungs- und Entwicklungsprojekte
 
+**Differenzierung nach Risiko und Aufgabenstellung**
+- Routineprojekte
+- Innovationsprojekte
+- komplexes Standardprojrekt
+- Potenzialprojekt
 
-VL1F18
+![](./Fragenkatalog/01%20Projektmanagement/VL1-19.PNG)
+
+VL1F18f.
 
 </td></tr></table>
 </details>
@@ -42,6 +58,9 @@ VL1F18
 <table><tr><td>
 
 .. ist Geschäftsführung auf Zeit.
+
+- Das Projektmanagement / der Projektmanager übernehmen im Projekt temporär die gleiche Verantwortung, die einem Geschäftsführer bei der Führung des Unternehmens zukommt.
+- Projektmanagement / Projektmanager haben also das Projekt „als Ganzes“ im Fokus und leisten auf diese Weise einen Beitrag zur Sicherung des Unternehmenserfolges.
 
 VL1F23,24
 
@@ -496,4 +515,4 @@ VL11
 
 
 
-Generiert am Mon Sep 13 13:26:58 UTC 2021
+Generiert am Mon Sep 13 13:28:47 UTC 2021
