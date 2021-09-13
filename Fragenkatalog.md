@@ -181,21 +181,32 @@ VL4F5-8
 
 </td></tr></table>
 </details>
-<details><summary><b>Projekt und Produktstrukturplan</b></summary>
+<details><summary><b>Produktstrukturplan</b></summary>
 <table><tr><td>
 
-**Projektstrukturplan**
+- Zerlegung des Produkts in Teile
+- Gemeint sind alle Teile, die am Ende des Projekts an den Auftraggeber geliefert werden sollen.
 
-**Produktstrukturplan**
+VL4F10ff.
 
+</td></tr></table>
+</details>
+<details><summary><b>Projektstrukturplan</b></summary>
+<table><tr><td>
 
-VL4F11ff.
+- Zerlegung der Arbeiten
+- Der Projektstrukturplan ist die Verbindung zwischen dem Produktstrukturplan und der im Unternehmen etablierten Ablauforganisation
+
+VL4F19ff.
 
 </td></tr></table>
 </details>
 <details><summary><b>Vorgangsliste</b></summary>
 <table><tr><td>
 
+- Elemente werden in Liste zusammengeführt.
+- Die kleinste Einheit ist ein Arbeitspaket.
+- Vorgangsliste zeigt Beziehungen auf.
 
 VL4F23
 
@@ -204,6 +215,11 @@ VL4F23
 <details><summary><b>Warum ist Planung wichtig?</b></summary>
 <table><tr><td>
 
+- Planung erhöht die Sicherheit, dass der Termin realistisch ist.
+- Planung erhöht die Sicherheit, dass das Budget realistisch ist.
+- Planung vermeidet Kosten der Fehlerbeseitigung.
+- *Kein Plan überlebt die erste Feindberührung.*
+- Fehlerbeseitigungskosten steigen sehr stark an, wenn dieser verschleppt wird.
 
 VL4F27-28
 </td></tr></table>
@@ -470,4 +486,4 @@ VL11
 
 
 
-Generiert am Mon Sep 13 12:29:00 UTC 2021
+Generiert am Mon Sep 13 12:44:20 UTC 2021
