@@ -382,7 +382,7 @@ Dauer, um die der frühestmögliche Anfangszeitpunkt eines Vorgangs verschoben w
 Diese Vorgänge dürfen nicht verschoben werden, sonst wird der Endtermin nicht gehalten. Die Puffer (GP & FP) sind auf diesem Pfad 0.
 
 
-<img src="./Netzplan.PNG" />
+![](./Fragenkatalog/08%20Terminplanung/Netzplan.PNG)
 
 - Vorgänge (Nummer, Bezeichnung, Dauer) in Kästen übertragen
 - "Vorwärts durchrechnen"
@@ -515,4 +515,4 @@ VL11
 
 
 
-Generiert am Mon Sep 13 19:00:39 UTC 2021
+Generiert am Mon Sep 13 19:01:07 UTC 2021
