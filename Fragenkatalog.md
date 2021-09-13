@@ -125,7 +125,7 @@ Fragen aus der Datei [Relevant](./Fragenkatalog/03%20Lastenheft%20und%20Pflichte
 <details><summary><b>Definition Lasten- und Pflichtenheft</b></summary>
 <table><tr><td>
 
-<img src="./LastPflicht.PNG" />
+![](./Fragenkatalog/03%20Lastenheft%20und%20Pflichtenheft/LastPflicht.PNG)
 
 VL3F22
 
@@ -151,7 +151,7 @@ VL3F31
 <details><summary><b>Zusammenfassung Last und Pflichtenheft</b></summary>
 <table><tr><td>
 
-Aus Vorlesungs Video
+![](./Fragenkatalog/03%20Lastenheft%20und%20Pflichtenheft/IMG_20210913_144659.jpg)
 
 VL3F33
 </td></tr></table>
@@ -486,4 +486,4 @@ VL11
 
 
 
-Generiert am Mon Sep 13 12:49:07 UTC 2021
+Generiert am Mon Sep 13 12:49:52 UTC 2021
