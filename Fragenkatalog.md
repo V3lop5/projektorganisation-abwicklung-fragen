@@ -398,7 +398,7 @@ VL11F8-15 ca.
 **Termintreue (Schedule Variance und Schedule Performance Index)**
 - `SV = EV - PV`
 - Deutung
-  - `< 0` das Projekt ist llangsamer als geplant
+  - `< 0` das Projekt ist langsamer als geplant
   - `= 0` das Projekt ist im Zeitplan
   - `> 0` das Projekt ist schneller als geplant
 - VL11F36,42
@@ -442,4 +442,4 @@ VL11
 
 
 
-Generiert am Mon Sep 13 09:53:36 UTC 2021
+Generiert am Mon Sep 13 09:53:55 UTC 2021
