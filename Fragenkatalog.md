@@ -50,6 +50,7 @@ VL1F23,24
 <details><summary><b>Phasen des Projektmanagements nach Jakoby</b></summary>
 <table><tr><td>
 
+<img src="./Phasen.PNG" />
 
 VL1F28
 
@@ -414,4 +415,4 @@ VL11
 
 
 
-Generiert am Mon Sep 13 09:10:53 UTC 2021
+Generiert am Mon Sep 13 09:11:53 UTC 2021
