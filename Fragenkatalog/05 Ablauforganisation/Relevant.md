@@ -11,7 +11,7 @@ VL5F30
 
 # Ablaufprojektmanagement bei agilen Projekten
 
-<img src="./Kriterien.jpg" />
+![](./Kriterien.jpg)
 
 VL5F31
 VL5F32? (ggf. Video)
