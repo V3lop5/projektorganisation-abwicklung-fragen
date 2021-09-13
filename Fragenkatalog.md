@@ -254,7 +254,7 @@ VL7F8-10
 <details><summary><b>Schätzung von Kosten</b></summary>
 <table><tr><td>
 
-
+<img src="./Kosten.PNG" />
 
 VL7F13
 
@@ -414,4 +414,4 @@ VL11
 
 
 
-Generiert am Mon Sep 13 09:05:34 UTC 2021
+Generiert am Mon Sep 13 09:05:47 UTC 2021
