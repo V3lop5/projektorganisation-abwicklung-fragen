@@ -1,5 +1,5 @@
 # Definition Lasten- und Pflichtenheft
-<img src="./LastPflicht.PNG" />
+![](./LastPflicht.PNG)
 
 VL3F22
 
@@ -17,6 +17,6 @@ VL3F22
 VL3F31
 
 # Zusammenfassung Last und Pflichtenheft
-Aus Vorlesungs Video
+![](./IMG_20210913_144659.jpg)
 
 VL3F33
