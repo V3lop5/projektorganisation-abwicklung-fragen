@@ -1,4 +1,5 @@
 # Berechnung Break even point
+- Der Punkt ab dem man Gewinn machen würde.
 - Kosten = Erlös
 - `Menge = Fixkosten / (Preis - Variable Kosten)`
 
