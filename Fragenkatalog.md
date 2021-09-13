@@ -292,6 +292,7 @@ VL7F18
 TODO
 
 > RPZ kleiner als 40 => Unkritisch, keine Maßnahmen erforderlich
+
 > RPZ größer als 100 => Vorbeugende Maßnahmen erforderlich
 
 VL7F30-34
@@ -447,4 +448,4 @@ VL11
 
 
 
-Generiert am Mon Sep 13 11:33:07 UTC 2021
+Generiert am Mon Sep 13 11:36:23 UTC 2021
