@@ -4,7 +4,7 @@
 - Durch Prüfsumme teilen 
 
 **Absoluten Nutzen**
-- Bild TODO
+- <img src="./Nutzwert 1.PNG" />
 
 **Relativer Nutzen**
 - Absoluten Nutzen * Gewichtung
