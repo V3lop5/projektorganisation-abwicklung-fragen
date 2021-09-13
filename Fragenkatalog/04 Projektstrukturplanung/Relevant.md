@@ -1,4 +1,4 @@
-# Zieldreieck bei klasisch oder agil
+# Zieldreieck bei klassisch oder agil
 Kosten, Qualität und Termine bilden ein Dreieck. Ändert sich eine Größe, so verschiebt sich mindestens eine Andere.
 
 **Klassisches Projektmanagement**
@@ -10,6 +10,7 @@ Kosten, Qualität und Termine bilden ein Dreieck. Ändert sich eine Größe, so 
 **Agiles Projekt**
 - Fixes Budget
 - Fixe Termine (Sprintziele)
+- Geplante Qualität
 
 *"Das für einen bestimmten Zeitraum („Sprint“) zur Verfügung stehende Budget steht fest. Daraufhin wird geplant, wie der Wert des Projektgegenstands gesteigert werden kann („Mehrwert“)."*
 
