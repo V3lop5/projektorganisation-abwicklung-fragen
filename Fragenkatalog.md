@@ -245,6 +245,7 @@ Fragen aus der Datei [Relevant](./Fragenkatalog/07%20Projektkostenplanung/Releva
 <details><summary><b>Berechnung Break even point</b></summary>
 <table><tr><td>
 
+- Der Punkt ab dem man Gewinn machen würde.
 - Kosten = Erlös
 - `Menge = Fixkosten / (Preis - Variable Kosten)`
 
@@ -446,4 +447,4 @@ VL11
 
 
 
-Generiert am Mon Sep 13 10:51:03 UTC 2021
+Generiert am Mon Sep 13 11:03:39 UTC 2021
