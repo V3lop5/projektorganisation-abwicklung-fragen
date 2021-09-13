@@ -50,7 +50,7 @@ VL11F41
 VL1135-42?
 
 # Meilensteintrendanalyse
-<img src="./Meilenstein.PNG" />
+![](./Meilenstein.PNG)
 
 VL11F72
 Übung
