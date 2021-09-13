@@ -344,7 +344,7 @@ Fragen aus der Datei [Relevant](./Fragenkatalog/09%20Nutzwertanalyse/Relevant.md
 - Durch Prüfsumme teilen 
 
 **Absoluten Nutzen**
-- Bild TODO
+- <img src="./Nutzwert 1.PNG" />
 
 **Relativer Nutzen**
 - Absoluten Nutzen * Gewichtung
@@ -436,4 +436,4 @@ VL11
 
 
 
-Generiert am Mon Sep 13 09:40:41 UTC 2021
+Generiert am Mon Sep 13 09:41:04 UTC 2021
