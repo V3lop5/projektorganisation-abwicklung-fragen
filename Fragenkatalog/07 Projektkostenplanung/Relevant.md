@@ -31,7 +31,7 @@ VL7F18
 - **E**ntdeckungswahrscheinlichkeit
 - **B**edeutung
 
-TODO
+![](./RPZ.PNG)
 
 > RPZ kleiner als 40 => Unkritisch, keine Maßnahmen erforderlich
 
