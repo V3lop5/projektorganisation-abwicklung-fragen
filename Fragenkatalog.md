@@ -339,8 +339,12 @@ Fragen aus der Datei [Relevant](./Fragenkatalog/09%20Nutzwertanalyse/Relevant.md
 <details><summary><b>Nutzwertanalyse</b></summary>
 <table><tr><td>
 
+Unterstützt bei Entscheidung welches Angebot am Besten ist. Dazu wird für jedes Angebot unter Berücksichtigung der Gütekriterien eine Kennzahl errechnet.
+
+Die Gütekriterien liegen in einer Präferenzmatrix vor.
+
 **Gewichte bestimmen**
-- Zählen wie oft Kriterum in Präferenzmatrix vorkommt
+- Zählen wie oft Gütekriterium in Präferenzmatrix vorkommt
 - Durch Prüfsumme teilen 
 
 **Absoluten Nutzen**
@@ -442,4 +446,4 @@ VL11
 
 
 
-Generiert am Mon Sep 13 09:53:55 UTC 2021
+Generiert am Mon Sep 13 10:49:47 UTC 2021
