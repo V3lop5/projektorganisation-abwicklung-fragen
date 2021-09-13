@@ -339,7 +339,7 @@ Fragen aus der Datei [Relevant](./Fragenkatalog/09%20Nutzwertanalyse/Relevant.md
 <details><summary><b>Nutzwertanalyse</b></summary>
 <table><tr><td>
 
-Unterstützt bei Entscheidung welches Angebot am Besten ist. Dazu wird für jedes Angebot unter Berücksichtigung der Gütekriterien eine Kennzahl errechnet.
+Unterstützt bei Entscheidung welches Angebot am Besten ist. Dazu wird für jedes Angebot unter Berücksichtigung der Gütekriterien eine Kennzahl errechnet. Bei der Untersuchung werden nur Angebote berücksichtigt, die die Mindestanforderung jedes Gütekriteriums erfüllen. (Wertebereich muss für jedes Kriterium definiert sein.)
 
 Die Gütekriterien liegen in einer Präferenzmatrix vor.
 
@@ -446,4 +446,4 @@ VL11
 
 
 
-Generiert am Mon Sep 13 10:49:47 UTC 2021
+Generiert am Mon Sep 13 10:51:03 UTC 2021
