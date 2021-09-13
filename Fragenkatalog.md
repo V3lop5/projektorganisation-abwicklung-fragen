@@ -244,6 +244,8 @@ Fragen aus der Datei [Relevant](./Fragenkatalog/07%20Projektkostenplanung/Releva
 <details><summary><b>Berechnung Break even point</b></summary>
 <table><tr><td>
 
+- Kosten = Erlös
+- `Menge = Fixkosten / (Preis - Variable Kosten)`
 
 VL7F8-10
 
@@ -251,6 +253,7 @@ VL7F8-10
 </details>
 <details><summary><b>Schätzung von Kosten</b></summary>
 <table><tr><td>
+
 
 
 VL7F13
@@ -411,4 +414,4 @@ VL11
 
 
 
-Generiert am Sat Sep 11 11:27:10 UTC 2021
+Generiert am Mon Sep 13 08:59:20 UTC 2021
