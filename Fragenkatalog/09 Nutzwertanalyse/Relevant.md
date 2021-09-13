@@ -1,6 +1,10 @@
 # Nutzwertanalyse
+Unterstützt bei Entscheidung welches Angebot am Besten ist. Dazu wird für jedes Angebot unter Berücksichtigung der Gütekriterien eine Kennzahl errechnet.
+
+Die Gütekriterien liegen in einer Präferenzmatrix vor.
+
 **Gewichte bestimmen**
-- Zählen wie oft Kriterum in Präferenzmatrix vorkommt
+- Zählen wie oft Gütekriterium in Präferenzmatrix vorkommt
 - Durch Prüfsumme teilen 
 
 **Absoluten Nutzen**
