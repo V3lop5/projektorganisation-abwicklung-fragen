@@ -303,10 +303,31 @@ Fragen aus der Datei [Relevant](./Fragenkatalog/08%20Terminplanung/Relevant.md).
 <details><summary><b>Netzplan</b></summary>
 <table><tr><td>
 
-- Kritischer Pfad
-- Gesamtpuffer
-- Freier Puffer
-- Netzplan zeichen nach MPM
+**Gesamtpuffer**
+Dauer, um die der Anfangszeitpunkt (Vorwärtsplanung) oder der Endzeitpunkt (Rückwärtsplanung) eines Vorgangs verschoben werden kann, ohne dass die Projektdauer beeinflusst wird.
+
+**Freier Puffer**
+Dauer, um die der frühestmögliche Anfangszeitpunkt eines Vorgangs verschoben werden kann, ohne dass sich der frühestmögliche Anfangszeitpunkt seines Nachfolgers ändert.
+
+**Kritischer Pfad**
+Diese Vorgänge dürfen nicht verschoben werden, sonst wird der Endtermin nicht gehalten.
+
+
+<img src="./Netzplan.PNG" />
+
+- Vorgänge (Nummer, Bezeichnung, Dauer) in Kästen übertragen
+- "Vorwärts durchrechnen"
+  - `FAZ (frühste Anfangszeitpunkt) = max(vorherigen Vorgänge FEZ, 0)`
+  - `FEZ (frühster Endzeitpunkt) = FAZ + D`
+- "Rückwärts durchrechnen" 
+  - `SEZ (spätester Endzeitpunkt) = min(nachfolgende Vorgänge SAZ)`, bei letztem Vorgang FEZ 
+  - `SAZ (spätester Anfangszeitpunkt) = SEZ - D`
+- Puffer bestimmen
+  - `GP (Gesamtpuffer) = SAZ - FAZ`
+  - `FP (freier Puffer) = min(FAZ nachfolgende Vorgänge) - FEZ`
+
+
+
 
 VL8F19
 Eig komplette Vorlesung
@@ -415,4 +436,4 @@ VL11
 
 
 
-Generiert am Mon Sep 13 09:19:10 UTC 2021
+Generiert am Mon Sep 13 09:39:26 UTC 2021
