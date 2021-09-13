@@ -73,6 +73,7 @@ Fragen aus der Datei [Relevant](./Fragenkatalog/02%20Problemlösungsprozesse/Rel
 <details><summary><b>Problemlösung ist ein iterativer Prozess</b></summary>
 <table><tr><td>
 
+![](./Fragenkatalog/02%20Problemlösungsprozesse/Iterativ.PNG)
 
 VL2F8
 
@@ -81,6 +82,13 @@ VL2F8
 <details><summary><b>Zielgestaltung - SMART </b></summary>
 <table><tr><td>
 
+![](./Fragenkatalog/02%20Problemlösungsprozesse/SMART.PNG)
+
+- Spezifisch
+- Messbar
+- Attraktiv
+- Realistisch
+- Terminiert
 
 VL2F14
 
@@ -89,6 +97,7 @@ VL2F14
 <details><summary><b>Hierachisches und Zeitliches Zielsystem</b></summary>
 <table><tr><td>
 
+![](./Fragenkatalog/02%20Problemlösungsprozesse/Zielsystem.PNG)
 
 VL2F17
 
@@ -97,6 +106,7 @@ VL2F17
 <details><summary><b>Beziehung von Zielen</b></summary>
 <table><tr><td>
 
+![](./Fragenkatalog/02%20Problemlösungsprozesse/Korrelation.PNG)
 
 VL2F18
 
@@ -486,4 +496,4 @@ VL11
 
 
 
-Generiert am Mon Sep 13 12:52:51 UTC 2021
+Generiert am Mon Sep 13 13:15:53 UTC 2021
