@@ -349,7 +349,7 @@ Die Gütekriterien liegen in einer Präferenzmatrix vor.
 - Durch Prüfsumme teilen 
 
 **Absoluten Nutzen**
-- <img src="./Nutzwert 1.PNG" />
+- ![](./Fragenkatalog/09%20Nutzwertanalyse/Nutzwert1.PNG)
 
 **Relativer Nutzen**
 - Absoluten Nutzen * Gewichtung
@@ -447,4 +447,4 @@ VL11
 
 
 
-Generiert am Mon Sep 13 11:27:09 UTC 2021
+Generiert am Mon Sep 13 11:27:57 UTC 2021
