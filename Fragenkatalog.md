@@ -387,7 +387,7 @@ VL11F8-15 ca.
 | Die Gesamtkosten des Projekts (intern + extern) | BAC – Budget at Completion | Kostenplanung |
 | Die Gesamtdauer des Projekts bis Abnahme | TAC – Time at Completion | Terminplanung |
 | Den Fertigstellungsgrad am Stichtag der Analyse | SOC – Stage of Completion | noch offen <br> `SOC = Istkosten/erwartete Gesamtkosten` |
-| Die Ist-Kosten am Stichtag der Analyse | AC – Actual Cost | Kosten- und Terminsteuerung |
+| Die Ist-Kosten am Stichtag der Analyse | AC – Actual Cost | Kosten- und Terminsteuerung <br> `AC = Istkosten (ext+int) + Bestellkosten (ext)` |
 | Die Plankosten am Stichtag der Analyse | PV – Planned Value | noch offen <br> Aus Kostenplanung ablesen |
 
 
@@ -436,4 +436,4 @@ VL11
 
 
 
-Generiert am Mon Sep 13 09:42:39 UTC 2021
+Generiert am Mon Sep 13 09:48:26 UTC 2021
