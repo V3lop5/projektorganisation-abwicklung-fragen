@@ -323,7 +323,7 @@ VL7F8-10
 <details><summary><b>Schätzung von Kosten</b></summary>
 <table><tr><td>
 
-<img src="./Kosten.PNG" />
+![](./Fragenkatalog/07%20Projektkostenplanung/Kosten.PNG)
 
 VL7F13
 
@@ -515,4 +515,4 @@ VL11
 
 
 
-Generiert am Mon Sep 13 18:59:20 UTC 2021
+Generiert am Mon Sep 13 19:00:39 UTC 2021
