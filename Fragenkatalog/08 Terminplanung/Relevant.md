@@ -6,7 +6,7 @@ Dauer, um die der Anfangszeitpunkt (Vorwärtsplanung) oder der Endzeitpunkt (Rü
 Dauer, um die der frühestmögliche Anfangszeitpunkt eines Vorgangs verschoben werden kann, ohne dass sich der frühestmögliche Anfangszeitpunkt seines Nachfolgers ändert.
 
 **Kritischer Pfad**
-Diese Vorgänge dürfen nicht verschoben werden, sonst wird der Endtermin nicht gehalten.
+Diese Vorgänge dürfen nicht verschoben werden, sonst wird der Endtermin nicht gehalten. Die Puffer (GP & FP) sind auf diesem Pfad 0.
 
 
 <img src="./Netzplan.PNG" />
