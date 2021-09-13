@@ -1,4 +1,4 @@
-# Klalkulationen/Kostenarten
+# Kalkulationen/Kostenarten
 
 **Kostenprognose**
 - Prognose setzt sich aus
