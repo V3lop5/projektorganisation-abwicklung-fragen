@@ -233,7 +233,7 @@ VL5F30
 <table><tr><td>
 
 
-<img src="./Kriterien.jpg" />
+![](./Fragenkatalog/05%20Ablauforganisation/Kriterien.jpg)
 
 VL5F31
 VL5F32? (ggf. Video)
@@ -448,4 +448,4 @@ VL11
 
 
 
-Generiert am Mon Sep 13 11:39:25 UTC 2021
+Generiert am Mon Sep 13 11:42:27 UTC 2021
