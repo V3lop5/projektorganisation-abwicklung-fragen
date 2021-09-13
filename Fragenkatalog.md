@@ -250,7 +250,7 @@ VL5F30
 
 </td></tr></table>
 </details>
-<details><summary><b>Ablaufprojektmanagement bei agilen Projekten</b></summary>
+<details><summary><b>Übersicht Modelle</b></summary>
 <table><tr><td>
 
 
@@ -469,4 +469,4 @@ VL11
 
 
 
-Generiert am Mon Sep 13 12:11:47 UTC 2021
+Generiert am Mon Sep 13 12:15:51 UTC 2021
