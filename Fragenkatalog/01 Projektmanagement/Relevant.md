@@ -29,6 +29,7 @@ VL1F18
 VL1F23,24
 
 # Phasen des Projektmanagements nach Jakoby
+<img src="./Phasen.PNG" />
 
 VL1F28
 
