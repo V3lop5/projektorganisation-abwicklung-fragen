@@ -392,17 +392,23 @@ VL11F8-15 ca.
 
 
 **Earned Value** 
--
-- EV = SOC * BAC
+- Das sind die aktuell "geernteten" Umsatzerlöse. (VL11F33)
+- `EV = SOC * BAC`
 
 **Termintreue (Schedule Variance und Schedule Performance Index)**
-- Formel
+- `SV = EV - PV`
 - Deutung
+  - `< 0` das Projekt ist llangsamer als geplant
+  - `= 0` das Projekt ist im Zeitplan
+  - `> 0` das Projekt ist schneller als geplant
 - VL11F36,42
 
 **Kostentreue (Cost Variance und Cost Performance Index)**
-- Formel
+- `CV = EV - AZ`
 - Deutung
+  - `< 0` das Projekt ist teurer als geplant
+  - `= 0` das Projekt ist im Plan
+  - `> 0` das Projekt ist günstiger als geplant
 - VL11F37,41
 
 
@@ -436,4 +442,4 @@ VL11
 
 
 
-Generiert am Mon Sep 13 09:48:26 UTC 2021
+Generiert am Mon Sep 13 09:53:36 UTC 2021
