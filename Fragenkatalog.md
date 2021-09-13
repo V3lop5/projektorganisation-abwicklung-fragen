@@ -159,7 +159,7 @@ VL3F33
 
 ## Projektstrukturplanung
 Fragen aus der Datei [Relevant](./Fragenkatalog/04%20Projektstrukturplanung/Relevant.md).
-<details><summary><b>Zieldreieck bei klasisch oder agil</b></summary>
+<details><summary><b>Zieldreieck bei klassisch oder agil</b></summary>
 <table><tr><td>
 
 Kosten, Qualität und Termine bilden ein Dreieck. Ändert sich eine Größe, so verschiebt sich mindestens eine Andere.
@@ -173,6 +173,7 @@ Kosten, Qualität und Termine bilden ein Dreieck. Ändert sich eine Größe, so 
 **Agiles Projekt**
 - Fixes Budget
 - Fixe Termine (Sprintziele)
+- Geplante Qualität
 
 *"Das für einen bestimmten Zeitraum („Sprint“) zur Verfügung stehende Budget steht fest. Daraufhin wird geplant, wie der Wert des Projektgegenstands gesteigert werden kann („Mehrwert“)."*
 
@@ -469,4 +470,4 @@ VL11
 
 
 
-Generiert am Mon Sep 13 12:15:51 UTC 2021
+Generiert am Mon Sep 13 12:29:00 UTC 2021
